@@ -5,7 +5,7 @@ All Rights Reserved.
 - You are allowed to monetize videos and other content that are using this project as long as you do not pose as the creator and give proper credit. 
 - You are allowed to use this project in modpacks or the like as long as you give credit and link to the official page you downloaded it from. 
 - You are allowed to learn from the source code and use ideas and systems in it.
-- You are allowed to make add-ons for this project, as long as the original is required. It would be nice to notice me (-LEO-) if you plan to publish your add-on so I can support you further.
+- You are allowed to make add-ons for this project, as long as the original is required. It would be nice to notify me (-LEO-) if you plan to publish your add-on so I can support you further.
 
 - Distribution & Re-Uploads: You are strictly not permitted to re-upload, mirror, or redistribute this project on any other websites, platforms, or launcher services.
 - You are not allowed to upload modified versions of this project.
